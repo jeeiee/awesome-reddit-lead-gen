@@ -1,6 +1,6 @@
-# Awesome Reddit Lead Gen
+# Best Reddit Lead Generation Tools & Marketing Strategies (2026)
 
-A curated list of awesome tools, strategies, scripts, and resources for finding leads, acquiring customers, and doing social listening on Reddit.
+A curated list of awesome tools, strategies, open-source scripts, and resources for finding leads, acquiring customers, and doing social listening on Reddit.
 
 ## 🚀 Featured Tool
 
