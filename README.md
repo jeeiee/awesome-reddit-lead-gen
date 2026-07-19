@@ -6,7 +6,7 @@ A curated list of awesome tools, strategies, open-source scripts, and resources 
 
 ## 🚀 Featured Tool
 
-### [ReplyGain](https://replygain.com) — AI-Powered Social Listening & Lead Gen
+### [ReplyGain](https://replygain.com?utm_source=github&utm_medium=organic&utm_campaign=awesome-reddit-lead-gen) — AI-Powered Social Listening & Lead Gen
 
 ReplyGain is an AI-powered social listening tool designed specifically for founders, SaaS creators, and marketing teams. It monitors Reddit, Hacker News, X (Twitter), and Bluesky in real-time to find people already asking for solutions like yours.
 
@@ -15,7 +15,7 @@ ReplyGain is an AI-powered social listening tool designed specifically for found
 *   **Multi-Platform:** Monitor Hacker News, Reddit, Bluesky, and X all in one dashboard.
 *   **Pricing:** Plans start at $29/mo (or $9 for a 7-day pass).
 
-👉 **[Start finding leads on ReplyGain](https://replygain.com)**
+👉 **[Start finding leads on ReplyGain](https://replygain.com?utm_source=github&utm_medium=organic&utm_campaign=awesome-reddit-lead-gen)**
 
 ---
 
@@ -23,7 +23,7 @@ ReplyGain is an AI-powered social listening tool designed specifically for found
 
 | Tool | Pricing | AI Intent Scoring? | Reply Drafting? | Best For |
 | :--- | :--- | :--- | :--- | :--- |
-| **[ReplyGain](https://replygain.com)** | From $29/mo (or $9 trial) | Yes (Two-stage) | Yes | AI intent scoring + reply drafts |
+| **[ReplyGain](https://replygain.com?utm_source=github&utm_medium=organic&utm_campaign=awesome-reddit-lead-gen)** | From $29/mo (or $9 trial) | Yes (Two-stage) | Yes | AI intent scoring + reply drafts |
 | **Linkeddit** | From $29/mo | Yes | Yes | B2B pipeline & CRM sync |
 | **Syften** | From $22/mo | No | No | Boolean rule power users |
 | **F5Bot** | Free | No | No | Zero-budget keyword alerts |
@@ -33,7 +33,7 @@ ReplyGain is an AI-powered social listening tool designed specifically for found
 
 ## 🗂️ Curated List of Tools
 
-### 1. [ReplyGain](https://replygain.com) — AI Intent Scoring & Reply Drafting
+### 1. [ReplyGain](https://replygain.com?utm_source=github&utm_medium=organic&utm_campaign=awesome-reddit-lead-gen) — AI Intent Scoring & Reply Drafting
 An AI-powered social listening assistant designed to find high-intent conversations on Reddit, Hacker News, Bluesky, and X/Twitter. Uses a two-stage filter to reduce noise and drafts a personalized reply for every lead.
 *   **Key Features:** Automated URL parsing for onboarding, 0-100 purchase intent scoring, multi-platform dashboard, and contextual reply draft suggestions.
 *   **Pricing:** Starts at $29/mo (or a $9 7-day pass for validation).
@@ -105,7 +105,7 @@ Reddit threads decay quickly. A thread created 12 hours ago is already "cold," a
 ## 🙋 Frequently Asked Questions (FAQ)
 
 ### Can I automate lead generation on Reddit?
-Yes, using tools like [ReplyGain](https://replygain.com) to monitor brand mentions, competitor terms, or query terms. However, never automate the *posting* of replies itself—always review and customize AI-generated drafts to keep your account safe from bans.
+Yes, using tools like [ReplyGain](https://replygain.com?utm_source=github&utm_medium=organic&utm_campaign=awesome-reddit-lead-gen) to monitor brand mentions, competitor terms, or query terms. However, never automate the *posting* of replies itself—always review and customize AI-generated drafts to keep your account safe from bans.
 
 ### What keywords should I monitor?
 Monitor:
