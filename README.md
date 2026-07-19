@@ -68,9 +68,10 @@ Reddit has a strict policy against self-promotion. Follow the **90/10 rule**: 90
 
 ## 📚 Essential Resources & Guides
 
-*   **[How to Reply to Reddit Posts Without Getting Banned](https://replygain.com)** — An in-depth guide on formatting your Reddit replies to ensure they stay active and build trust.
-*   **[Reddit Lead Gen Checklist](https://replygain.com)** — A quick framework for launching a Reddit monitoring campaign in under 10 minutes.
-*   **[SaaS Marketing Playbook](https://replygain.com)** — Organic acquisition strategies for bootstrapped founders.
+*   **[Reddit's Official Self-Promotion Wiki](https://www.reddit.com/wiki/selfpromotion)** — The official guidelines on how to discuss your own project on Reddit without getting flagged as a spammer.
+*   **[Sprout Social's Reddit Marketing Guide](https://sproutsocial.com/insights/reddit-marketing/)** — A comprehensive handbook on how to build a brand presence and find customers on Reddit.
+*   **[Julian Shapiro's Growth Playbook](https://www.julian.com/guide/growth/intro)** — A legendary, free guide explaining organic customer acquisition, startup marketing, and user psychology.
+*   **[Indie Hackers Guide to Getting Users](https://www.indiehackers.com/start)** — Curated start guides and real case studies of bootstrapped founders acquiring their first 100 customers.
 
 ---
 
