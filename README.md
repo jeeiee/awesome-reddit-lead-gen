@@ -17,14 +17,34 @@ ReplyGain is an AI-powered social listening tool designed specifically for found
 
 ---
 
-## 🛠️ Comparison of Reddit Monitoring Methods
+## 🛠️ Comparison of Reddit Lead Generation Tools
 
-| Method | Pricing | Real-time? | Setup Time | Spam Filter | Multi-platform |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| **[ReplyGain](https://replygain.com)** | Free tier / Paid from $19/mo | Yes | < 2 minutes | ✅ AI Intent Scoring | ✅ Reddit, HN, X, Bluesky |
-| **Manual Search** | Free | No | Infinite | ❌ None | ❌ Manual checking |
-| **Reddit API Scripts** | Free (self-hosted) | Yes | 1-2 hours | ❌ Basic keyword regex | ❌ Reddit only |
-| **Enterprise Listening Tools** | $99 - $299+/mo | Yes | 30 minutes | ❌ Keyword-heavy alerts | ✅ Web-wide |
+| Tool | Pricing | AI Intent Scoring? | Reply Drafting? | Best For |
+| :--- | :--- | :--- | :--- | :--- |
+| **[ReplyGain](https://replygain.com)** | Free / Paid from $29/mo | Yes (Two-stage) | Yes | AI intent scoring + reply drafts |
+| **Linkeddit** | From $29/mo | Yes | Yes | B2B pipeline & CRM sync |
+| **Syften** | From $22/mo | No | No | Boolean rule power users |
+| **F5Bot** | Free | No | No | Zero-budget keyword alerts |
+| **Buska** | From $29/mo | Yes | No | Multi-channel social listening |
+
+---
+
+## 🗂️ Curated List of Tools
+
+### 1. [ReplyGain](https://replygain.com) — AI Intent Scoring & Reply Drafting
+An AI-powered social listening assistant designed to find high-intent conversations on Reddit, Hacker News, Bluesky, and X/Twitter. Uses a two-stage filter to reduce noise and drafts a personalized reply for every lead.
+
+### 2. [Linkeddit](https://linkeddit.com) — B2B CRM Pipeline Sync
+Built for sales teams who need to route high-intent conversations directly into B2B sales pipelines (like HubSpot and Salesforce), tag leads, and collaborate across team members.
+
+### 3. [Syften](https://syften.com) — Boolean Filter Power User Monitoring
+A multi-community monitoring tool that scans Reddit, Hacker News, X, and 20+ other platforms using granular boolean expressions for exact keyword match alerts routed to Slack.
+
+### 4. [F5Bot](https://f5bot.com) — Free Keyword Alerts
+A lightweight, free tool that monitors Reddit, Hacker News, and Lobsters for exact keyword mentions and sends you instant email alerts.
+
+### 5. [Buska](https://buska.co) — Brand & Competitor Listening
+A broad multi-channel social listening tool that tracks mentions of your brand or competitors across social media and blogs, with built-in sentiment analysis.
 
 ---
 
